@@ -7,7 +7,7 @@ from tkinter import *
 class Operation:
     
     def autoType(self,keyControl,word):
-        if len(word)>=50:
+        if len(word)>=1000:
             return False
         for i in word:
             if i==" ":
