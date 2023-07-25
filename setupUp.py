@@ -25,7 +25,7 @@ http://www.jrsoftware.org/isinfo.php
 
 pip install pyinstaller
 
-pyinstaller --onefile your_script.py
+pyinstaller --onefile Main.py
 
 https://nsis.sourceforge.io/Download
 
